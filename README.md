@@ -3,7 +3,7 @@ Practicing CNN
 
 Data Source: https://www.kaggle.com/c/dogs-vs-cats/data
 
-**dogs_cats-pre.ipynb: 
+#dogs_cats-pre.ipynb: 
 
 Change image size to w x w (56x56)
 
