@@ -1,4 +1,5 @@
 # What I gain:
+## Using LightGBM for classification problem.
 ## How to deal with similar columns in dataset:
 
 Have to carefully check them:
