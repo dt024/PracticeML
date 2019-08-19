@@ -1,5 +1,7 @@
 Link: https://www.kaggle.com/c/ieee-fraud-detection
-# What I gain:
+# What I gained:
+## Recursive feature elimination:
+https://www.kaggle.com/nroman/recursive-feature-elimination
 ## Using LightGBM for classification problem.
 ## How to deal with similar columns in dataset:
 
