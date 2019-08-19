@@ -50,12 +50,18 @@ While standardizing data for linear models is required, for tree-based models it
 The same for correlation. It is important to analyze it for linear models, but for tree-based models feature interactions are important. While a feature could have little correlation with target, it could have a serious effect, when combined with some other variable.
 
 
-##Domain names can be binned:
+## Domain names can be binned:
 yahoo / ymail / frontier / rocketmail -> Yahoo
+
 hotmail / outlook / live / msn -> Microsoft
+
 icloud / mac / me -> Appe
+
 prodigy / att / sbcglobal-> AT&T
+
 centurylink / embarqmail / q -> Centurylink
+
 aim / aol -> AOL
+
 twc / charter -> Spectrum
 
