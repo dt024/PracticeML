@@ -1,5 +1,6 @@
 Link: https://www.kaggle.com/c/ieee-fraud-detection
 # What I gained:
+Reading many kernels and got about 0.94 by follow their code and instructions.
 ## Recursive feature elimination:
 https://www.kaggle.com/nroman/recursive-feature-elimination
 ## Using LightGBM for classification problem.
